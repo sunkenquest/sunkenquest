@@ -39,4 +39,4 @@
 ### **📈 Recent Activity & Insights**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=250&point=28a642)](https://github.com/mikco-hipe?tab=repositories)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=github-compact&days=30&custom_title=Activity%20over%20the%20past%2030%20days&hide_border=true&height=250&point=28a642)](https://github.com/mikco-hipe?tab=repositories)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=github-compact&days=60&custom_title=Activity%20over%20the%20past%2060%20days&hide_border=true&height=250&point=28a642)](https://github.com/castmikco-hipeilloglenn?tab=repositories)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=github-compact&days=60&custom_title=Activity%20over%20the%20past%2060%20days&hide_border=true&height=250&point=28a642)](https://github.com/mikco-hipe?tab=repositories)
