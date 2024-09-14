@@ -1,8 +1,9 @@
 
+<img width="100%" src="https://github.com/sunkenquest/sunkenquest/blob/main/assets/m_.kco.jpg">
+
 ![snake gif](https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img width="100%" src="/sunkenquest/assets/m_.kco.jpg">
-</img>
+
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mikco-hipe&show_icons=true&theme=github_dark">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sunkenquest&show_icons=true&theme=github_dark">
