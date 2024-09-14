@@ -2,7 +2,7 @@
 <img width="100%" src="https://github.com/sunkenquest/sunkenquest/blob/main/assets/m_.kco.jpg" alt="Mikco Banner">
 <!-- quote -->
 <p align="center">
-  <i>"Magcode para hindi malungkot."</i>
+  <i>"surpass mediocrity"</i>
 </p>
 
 <!-- contact -->
