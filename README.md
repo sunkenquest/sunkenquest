@@ -1,3 +1,6 @@
+
+![snake gif](https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mikco-hipe&show_icons=true&theme=github_dark">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sunkenquest&show_icons=true&theme=github_dark">
@@ -13,6 +16,5 @@
   <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunkenquest&theme=gotham" alt="sunkenquest activity graph">
 </p>
 
-![snake gif](https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg)
 
 
