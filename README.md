@@ -22,9 +22,21 @@
   <img width="100%" src="https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation">
 </p>
 
+### **</> Top Projects**
+
+<p align="center">
+  <a href="https://github.com/sunkenquest/microblog-project">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=microblog-project&theme=dark" />
+  </a>    
+  <a href="https://github.com/sunkenquest/QuizCraft">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=QuizCraft&theme=dark" />
+  </a>
+</p>
+
 ### **📊 Github Statistics**
 
-</p>
+_Statistics below are aggregated from two different GitHub accounts: `mikco-hipe` and `sunkenquest`._
+
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mikco-hipe&show_icons=true&theme=github_dark" alt="mikco-hipe stats">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sunkenquest&show_icons=true&theme=github_dark" alt="sunkenquest stats">
@@ -34,7 +46,6 @@
   <img width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mikco-hipe&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5" alt="mikco-hipe top languages">
   <img width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunkenquest&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5" alt="sunkenquest top languages">
 </p>
-
 
 ### **📈 Recent Activity & Insights**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=250&point=28a642)](https://github.com/mikco-hipe?tab=repositories)
