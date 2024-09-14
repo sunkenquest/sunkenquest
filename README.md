@@ -12,3 +12,7 @@
   <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=mikco-hipe&theme=gotham" alt="mikco-hipe activity graph">
   <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunkenquest&theme=gotham" alt="sunkenquest activity graph">
 </p>
+
+![snake gif](https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg)
+
+
