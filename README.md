@@ -34,6 +34,10 @@
     <a href="https://github.com/sunkenquest/lyricz">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=lyricz&theme=dark" />
   </a>
+    </a>
+    <a href="https://github.com/sunkenquest/daily-rep-automation">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=daily-rep-automation&theme=dark" />
+  </a>
 </p>
 
 ### **📊 Github Statistics**
