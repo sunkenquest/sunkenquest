@@ -31,12 +31,14 @@
   <a href="https://github.com/sunkenquest/QuizCraft">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=QuizCraft&theme=dark" />
   </a>
-    <a href="https://github.com/sunkenquest/lyricz">
+  <a href="https://github.com/sunkenquest/lyricz">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=lyricz&theme=dark" />
   </a>
-    </a>
-    <a href="https://github.com/sunkenquest/daily-rep-automation">
+  <a href="https://github.com/sunkenquest/daily-rep-automation">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=daily-rep-automation&theme=dark" />
+  </a>
+  <a href="https://github.com/sunkenquest/vue-3-practice">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=vue-3-practice&theme=dark" />
   </a>
 </p>
 
