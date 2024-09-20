@@ -40,6 +40,9 @@
   <a href="https://github.com/sunkenquest/vue-3-practice">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=vue-3-practice&theme=dark" />
   </a>
+  <a href="https://github.com/sunkenquest/payslip-e-sig">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunkenquest&repo=payslip-e-sig&theme=dark" />
+  </a>
 </p>
 
 ### **📊 Github Statistics**
