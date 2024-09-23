@@ -16,7 +16,11 @@
   <a href="mailto:sunkenquest@gmail.com">
     <img src="https://img.shields.io/badge/-sunkenquest-c14438?style=flat&logo=Gmail&logoColor=white&labelColor=c14438" alt="Gmail Badge">
   </a>
+  <a href="https://stackoverflow.com/users/27415096/m-kco">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-M%20Kco-FF7A00?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge">
+  </a>
 </p>
+
 
 <p align="center">
   <img width="100%" src="https://github.com/mikco-hipe/mikco-hipe/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation">
