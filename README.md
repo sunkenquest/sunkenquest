@@ -9,7 +9,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikco-jasareno/)
 &nbsp;
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/12091931/m_kco](https://stackoverflow.com/users/27415096/m-kco))
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27415096/m-kco)
 </div>
 
 <div align="center">
