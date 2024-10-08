@@ -1,8 +1,5 @@
-<!-- banner -->
-<!--<img width="100%" src="https://github.com/sunkenquest/sunkenquest/blob/main/assets/m_.kco.jpg" alt="Mikco Banner"> -->
-<!-- quote -->
 <p align="center">
-  <i>"surpass mediocrity"</i>
+  <span>S U R P A S S  M E D I O C R I T Y</span>
 </p>
 <div align="center">
   
@@ -13,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikco-jasareno/)
 &nbsp;
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/12091931/m_kco](https://stackoverflow.com/users/27415096/m-kco))
-
 </div>
 
 <div align="center">
