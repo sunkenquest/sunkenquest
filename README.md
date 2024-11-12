@@ -18,7 +18,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunkenquest&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&disable_animations=false&background=0D1118" alt="GitHub Stats">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sunkenquest&show_icons=true&theme=gotham" alt="sunkenquest stats">
 
-![snake gif](https://github.com/sunkenquest/sunkenquest/blob/output/github-contribution-grid-snake-dark.svg)
+<!--![snake gif](https://github.com/sunkenquest/sunkenquest/blob/output/github-contribution-grid-snake-dark.svg)-->
   
 </div>
   
